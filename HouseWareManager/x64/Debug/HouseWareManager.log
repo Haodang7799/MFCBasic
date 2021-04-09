@@ -1,0 +1,21 @@
+﻿Build started 2021/04/09 13:35:20.
+     1>Project "D:\DAHWorks\MFC\HouseWareManager\HouseWareManager\HouseWareManager.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\HouseWareManager.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt mainFrame.cpp
+         mainFrame.cpp
+     1>mainFrame.cpp(357): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>mainFrame.cpp(361): warning C4553: '==' : operator has no effect; did you intend '='?
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DAHWorks\MFC\HouseWareManager\x64\Debug\HouseWareManager.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\DAHWorks\MFC\HouseWareManager\x64\Debug\HouseWareManager.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DAHWorks\MFC\HouseWareManager\x64\Debug\HouseWareManager.lib" /MACHINE:X64 x64\Debug\HouseWareManager.res
+         x64\Debug\AddPage.obj
+         x64\Debug\HouseWareManager.obj
+         x64\Debug\HouseWareManagerDlg.obj
+         x64\Debug\mainFrame.obj
+         x64\Debug\RegisterPage.obj
+         x64\Debug\stdafx.obj
+         HouseWareManager.vcxproj -> D:\DAHWorks\MFC\HouseWareManager\x64\Debug\HouseWareManager.exe
+     1>Done Building Project "D:\DAHWorks\MFC\HouseWareManager\HouseWareManager\HouseWareManager.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.59
